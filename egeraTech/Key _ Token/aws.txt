@@ -1,0 +1,2 @@
+aws_access_key_id='AKIA57WUG547DLUJIP3T',
+aws_secret_access_key='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',
